@@ -171,7 +171,7 @@ $('.product-thumb-nav').slick({
 
 /* preloader */
 $( window ).load( function(){ 
-  $( '#siteLoader' ).fadeOut( 500 );
+  $( '#siteLoader' ).fadeOut( 300 );
 
   MasonryGrid ();
 });
