@@ -16,8 +16,8 @@ Add this code in HTML file. Here is a date format please follow this date format
 ```
 Include this in footer of the HTML file-
 ```
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js" async></script>
-<script src="./js/loopcounter.js" async></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"  ></script>
+<script src="./js/loopcounter.js"  ></script>
 <script type="text/javascript">
 	$(document).ready(function(){
 		loopcounter('first-counter');
